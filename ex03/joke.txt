@@ -1,0 +1,2 @@
+$> norminette README.md
+README.md: DELETE AND DO IT AGAIN !!!
