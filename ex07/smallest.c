@@ -1,0 +1,1 @@
+main(c,v)char**v;{if(c==3){v++[2][-1]=32;puts(*v);exit(2);}}
