@@ -1,1 +1,1 @@
-main(c,v)char**v;{if(c==3){v++[2][-1]=32;puts(*v);exit(2);}}
+main(c,v)char**v;{c^3?:exit(!puts(v[1],*--v[2]=32)+2);}

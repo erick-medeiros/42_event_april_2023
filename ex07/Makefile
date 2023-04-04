@@ -1,11 +1,9 @@
 NAME = smallest
-CC = gcc
-CFLAGS = -w -include stdio.h -include stdlib.h
 
 all: $(NAME)
 
-$(NAME):
-	$(CC) $(CFLAGS) -o $(NAME) smallest.c
+$(NAME): smallest.c
+	$(CC) -o $(NAME) smallest.c
 
 clean:
 	$(RM) $(NAME)
