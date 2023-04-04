@@ -2,8 +2,6 @@
 
 ## References
 
-* https://www.youtube.com/watch?v=dQw4w9WgXcQ [ex04]
-
 * https://symbl.cc/ [ex09]
 
 * https://dencode.com/en/ [ex10]
