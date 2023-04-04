@@ -1,0 +1,25 @@
+Enter a string: The string is a palindrome!
+Enter a string: The string is a palindrome!
+Enter a string: The string is a palindrome!
+Enter a string: The string is a palindrome!
+Enter a string: The string is a palindrome!
+Enter a string: The string is a palindrome!
+Enter a string: The string is a palindrome!
+Enter a string: The string is a palindrome!
+Enter a string: The string is a palindrome!
+Enter a string: The string is a palindrome!
+Enter a string: The string is a palindrome!
+Enter a string: The string is a palindrome!
+Enter a string: The string is a palindrome!
+Enter a string: The string is a palindrome!
+Enter a string: The string is a palindrome!
+Enter a string: The string is a palindrome!
+Enter a string: The string is a palindrome!
+Enter a string: The string is a palindrome!
+Enter a string: The string is not a palindrome.
+Enter a string: The string is not a palindrome.
+Enter a string: The string is not a palindrome.
+Enter a string: The string is not a palindrome.
+Enter a string: The string is not a palindrome.
+Enter a string: The string is not a palindrome.
+Enter a string: The string is not a palindrome.
